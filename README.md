@@ -1,10 +1,9 @@
 # PCF8591_MODULE_YL-40
 # PCF8591 Sensor Reader per ESP8266 (esp-01s)
 
-Sistema di acquisizione dati da sensori analogici utilizzando modulo ADC PCF8591 con microcontrollore ESP-01s (ESP8266).
 
 ## Descrizione
-
+Sistema di acquisizione dati da sensori analogici utilizzando modulo ADC PCF8591 con microcontrollore ESP-01s (ESP8266).
 Questo progetto implementa un sistema di lettura multi-sensore tramite interfaccia I2C. Il codice gestisce quattro canali analogici del PCF8591 con conversione dati per sensori specifici.
 
 ### Sensori supportati
